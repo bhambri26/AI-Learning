@@ -1,0 +1,31 @@
+# Next.js
+.next/
+out/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env*.local
+
+# System & OS
+.DS_Store
+*.pem
+
+# Android & Gradle
+.gradle/
+build/
+android/app/build/
+android/.gradle/
+*.iml
+.idea/
+local.properties
+
+# iOS & Xcode
+ios/DerivedData/
+ios/App/build/
+*.xcuserstate
+Podfile.lock
+Pods/
+
